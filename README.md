@@ -2,13 +2,13 @@
 
 Я начинающий фронтенд-разработчик, готова помочь сделать ваш проект удобным, функциональным и красивым :ok_hand:
 
-Мне 27 лет, живу в Москве
-Контакты:
-ryazanceva.evgenia.95@gmail.com
-+7 915 353 53 14
+* Мне 27 лет, живу в Москве
+* Контакты:
+* ryazanceva.evgenia.95@gmail.com
+* +7 915 353 53 14
 
-English - B2
-Spanish - A2
+* English - B2
+* Spanish - A2
 
 ## Мои навыки
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,7 +36,7 @@ Spanish - A2
   <tr>
       <td><a href='https://www.docshablon.com/'>Docshablon.com</a></td>
       <td>Redux, React.js, JavaScript, CSS, HTML</td>
-      <td><b>Project. </b>Простая и понятная база шаблонов на все случаи жизни</td>
+      <td><b>Project. </b>Простая и понятная база шаблонов на все случаи жизни. Первый проект, выполненный в команде </td>
     </tr>
      <tr>
       <td><a href="https://github.com/EvgeniaSuslina/movies-explorer-frontend">Search films app на React.js</a></td>
