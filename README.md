@@ -8,6 +8,7 @@
 * ryazanceva.evgenia.95@gmail.com
 * +7 915 353 53 14
 
+Знание языков:
 * English - B2
 * Spanish - A2
 
