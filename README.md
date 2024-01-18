@@ -36,7 +36,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='[https://www.docshablon.com/](https://эмизаврик.рф/)'>Эмизаврик</a></td>
+      <td><a href='https://эмизаврик.рф/'>Эмизаврик</a></td>
       <td> React.js, JavaScript, CSS, HTML</td>
       <td><b>Project. </b>Сайт для ознакомления с пособием по английскому языку для детей</td>
     </tr>
