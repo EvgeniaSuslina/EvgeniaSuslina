@@ -36,6 +36,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href='http://featurelab.ru/'>Лаборатория Фичлаб</a></td>
+      <td>Redux, React.js, JavaScript, CSS, HTML</td>
+      <td><b>Project. </b>Командная работа. Лендинг для площадки "Лаборатория Фичлаб" - проекта, нацеленного на помощь с приобритением практического опыта работ в IT</td>
+    </tr>
+    <tr>
       <td><a href='https://эмизаврик.рф/'>Эмизаврик</a></td>
       <td> React.js, JavaScript, CSS, HTML</td>
       <td><b>Project. </b>Сайт для ознакомления с пособием по английскому языку для детей</td>
