@@ -71,11 +71,6 @@
       <td><b>Учебный проект</b> Mesto на JavaScript. Аналог Инстаграм. Проверен ревьюерами Я.Практикума.</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/EvgeniaSuslina/countries-redux-course-project'>Search countries and flags</a></td>
-      <td>Redux, JavaScript, CSS, HTML</td>
-      <td><b>Учебный проект</b>Приложение на Redux по поиску стран, информации о них и флагов</td>
-    </tr>
-    <tr>
       <td><a href='https://github.com/EvgeniaSuslina/russian-travel'>Одностраничный сайт "Путешествия по России"</a></td>
       <td>CSS, HTML</td>
       <td><b>Учебный проект.</b> Одностраничный сайт с адаптивной версткой. Проверен ревьюерами Я.Практикума.</td>
