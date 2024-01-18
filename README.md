@@ -43,7 +43,7 @@
     <tr>
       <td><a href='https://эмизаврик.рф/'>Эмизаврик</a></td>
       <td> React.js, JavaScript, CSS, HTML</td>
-      <td><b>Project. </b>Сайт для ознакомления с пособием по английскому языку для детей</td>
+      <td><b>Project. </b>Лендинг для ознакомления с пособием по английскому языку для детей</td>
     </tr>
   <tr>
       <td><a href='https://www.docshablon.com/'>Docshablon.com</a></td>
